@@ -1,0 +1,9 @@
+.btn {
+    background-color: rgb(99, 53, 110);
+    color: red;
+}
+
+.btn:hover {
+    transform: scale(1.2);
+    transition: transform 0,9s ease-in-out;
+}
