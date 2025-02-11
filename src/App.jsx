@@ -1,5 +1,5 @@
-import Button from './componets/button/button'
-import Paragraph from './componets/bigParagraph/bigParagraph'
+import Button from './componets/ButtonEvent/index'
+import Paragraph from './componets/BigParagraph/index'
 import './App.css'
 
 function App() {

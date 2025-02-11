@@ -1,4 +1,4 @@
-import './bigParagraph.css'
+import './index.css'
 
 const Paragraph = ({color='blue', textTransform='upperCase'}) => {
     return (
